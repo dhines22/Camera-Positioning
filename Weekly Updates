@@ -10,3 +10,7 @@ Created wiring diagrams for integration with navigation system. Have camera able
 09/15/22:
 Began integrating camera positioning code with navigation code. Mounted camera to gimbal. Installing necessary libraries onto pi for integration
 
+09/22/22
+Integration with navigation subsystem is complete. Wokring on soldering circuits together on proto board. Start prepping for integration with ML
+
+
