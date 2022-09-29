@@ -13,4 +13,7 @@ Began integrating camera positioning code with navigation code. Mounted camera t
 09/22/22
 Integration with navigation subsystem is complete. Wokring on soldering circuits together on proto board. Start prepping for integration with ML
 
+09/29/22
+Image capturing and saving with the ML subsystem has begun
+
 
